@@ -41,5 +41,4 @@ public class Sound {
         }
         this.samples = newSamples;
     }
-}
 
